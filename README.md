@@ -84,7 +84,7 @@ Machine Learning project that detects emotions from text using NLP techniques.
 ## 📫 Connect With Me
 
 * 💼 **LinkedIn:** [Kishore T S](https://www.linkedin.com/in/kishore-t-s-699285308/)
-* 💻 **GitHub:** [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/kishorets05)
+* 💻 **GitHub:** [https://github.com/kishorets05](https://github.com/kishorets05)
 
 ---
 
