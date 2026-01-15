@@ -1,91 +1,81 @@
 # Hi, I'm Kishore 👋
 
-🎓 Computer Science Undergraduate
-🤖 AI & Machine Learning Enthusiast
-💻 Python | Java | SQL
+🎓 Computer Science Undergraduate  
+🤖 AI, ML & LLM Enthusiast  
+💻 Python | Java | SQL  
 
 Focused on building real-world AI-driven applications and strengthening problem-solving skills for internships and campus placements.
 
 ---
 
-## 🔍 About Me
+## 🏷️ Skills & Tools
 
-* Passionate about Artificial Intelligence and Machine Learning
-* Hands-on experience building AI-powered applications
-* Strong interest in backend logic and ML model deployment
-* Actively preparing for internships and campus placements
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🤖 AI / ML / LLM
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-5A29E4?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-4B0082?style=for-the-badge)
+
+---
+
+### 🛠️ Tools & Frameworks
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🚀 Startup Idea Evaluator
+AI-powered application that evaluates startup ideas and generates structured, actionable feedback.
 
-AI-powered application that evaluates startup ideas based on multiple parameters and generates structured feedback.
-
-**Tech Stack:** Python, LLMs, Streamlit
-**Key Highlights:**
-
-* Automated idea scoring and evaluation
-* Structured feedback generation
-* Clean and interactive UI
-
----
-
-### 🎤 Interview Questions Generator
-
-AI-based system that generates role-specific interview questions to help candidates prepare effectively.
-
-**Tech Stack:** Python, LLMs
-**Key Highlights:**
-
-* Dynamic question generation
-* Skill and role-based customization
-* Practical interview preparation support
+**Tech:** Python, LLMs, Streamlit  
 
 ---
 
 ### 😊 Emotion Detector
+NLP-based emotion classification system using machine learning models.
 
-Machine Learning project that detects emotions from text using NLP techniques.
-
-**Tech Stack:** Python, NLP, Machine Learning
-**Key Highlights:**
-
-* Text preprocessing and feature extraction
-* Emotion classification model
-* Model training and evaluation
+**Tech:** Python, NLP, Machine Learning  
 
 ---
 
-## 🧠 Problem Solving
+### 🎤 Interview Questions Generator
+AI-powered system that generates structured technical interview questions with explanations.
 
-* Solved **110+ problems** on LeetCode
-* Strong focus on Data Structures and Algorithms
-* Regular practice to improve logical thinking and coding efficiency
+**Tech:** Python, LLMs  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Problem Solving (LeetCode)
 
-* **Languages:** Python, Java
-* **Databases:** MySQL
-* **AI / ML:** Machine Learning, NLP
-* **Tools:** Git, GitHub, VS Code, Streamlit
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kishorets05?theme=dark&font=Karma)
+
+- Solved **110+ problems**
+- Strong focus on DSA fundamentals
+- Consistent practice mindset
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishorets05&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Connect With Me
-
-* 💼 **LinkedIn:** [Kishore T S](https://www.linkedin.com/in/kishore-t-s-699285308/)
-* 💻 **GitHub:** [https://github.com/kishorets05](https://github.com/kishorets05)
+- 💼 LinkedIn: https://www.linkedin.com/in/kishore-t-s-699285308/
+- 💻 GitHub: https://github.com/Kishorets05
 
 ---
 
-⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me.*
+⭐ *Thanks for visiting my profile. Feel free to explore my repositories and connect with me.*
