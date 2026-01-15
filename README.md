@@ -58,11 +58,7 @@ AI-powered system that generates structured technical interview questions with e
 
 ## 🧠 Problem Solving (LeetCode)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kishorets05?theme=dark&font=Karma)
-
-- Solved **110+ problems**
-- Strong focus on DSA fundamentals
-- Consistent practice mindset
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kishore_T_S?theme=dark&font=Karma)
 
 ---
 
