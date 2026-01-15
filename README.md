@@ -64,7 +64,8 @@ AI-powered system that generates structured technical interview questions with e
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishorets05&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishorets05&show_icons=true&theme=dark&cache_seconds=1800)
+
 
 ---
 
