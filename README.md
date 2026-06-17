@@ -99,13 +99,11 @@ Machine Learning and NLP-based emotion classification system capable of detectin
 
 ## 🎯 Career Interests
 
-* Artificial Intelligence
-* Machine Learning
-* Large Language Models (LLMs)
-* Data Analytics
-* Full Stack Development
-* Software Engineering
-
+* 🤖 Artificial Intelligence (AI)
+* 🧠 Machine Learning (ML)
+* 🔬 Deep Learning
+* 💬 Large Language Models (LLMs)
+* ✨ Generative AI
 ---
 
 ## 📫 Connect With Me
